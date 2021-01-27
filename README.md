@@ -1,6 +1,6 @@
 # chatapp
 
-A new Flutter project.
+A Flutter end to end encrypted chat application( in progress, not completed)
 
 ## Getting Started
 
